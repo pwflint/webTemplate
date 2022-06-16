@@ -1,4 +1,6 @@
-# Left
+# webTemplate
+
+This is a working template for various web development projects based on Left.
 
 Left is a clean, whitespace-happy layout for [Jekyll](https://github.com/mojombo/jekyll).
 
@@ -48,12 +50,3 @@ might not actually see it locally until you push it up to Pages).
 All you should have to do is rename your repository on GitHub to be
 `username.github.com`. Since everything is on the `gh-pages` branch, you
 should be able to see your new site at <http://username.github.io>.
-
-## Licensing
-
-This is [MIT](https://github.com/holman/left/blob/gh-pages/LICENSE) with no
-added caveats, so feel free to use this on your site without linking back to
-me or using a disclaimer or anything silly like that.
-
-If you'd like give me credit somewhere on your blog or tweet a shout out to
-[@holman](https://twitter.com/holman), well hey, I'll take it.
