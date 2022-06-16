@@ -1,0 +1,10 @@
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: 
+url: 
+description:
+twitter: 
